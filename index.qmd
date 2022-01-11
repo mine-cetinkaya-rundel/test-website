@@ -1,0 +1,12 @@
+---
+title: "Home"
+---
+
+Description of problem:
+
+-   Slides are in the slides folder.
+-   Currently `slides.scss` has two copies in the repo:
+    1.  in the `slides` folder
+    2.  in the root of the repo
+-   With this repetition the slides render using the correct styling (titles are red) whether you click on *Render* when editing `deck1.qmd` or click on *Render Website* in the **Build** tab.
+-   I'd like to have only one copy of `slides.scss` in the repo and have both render options work.

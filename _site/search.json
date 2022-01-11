@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Slides:\n\nDeck 1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Description of problem:\n\nSlides are in the slides folder.\nCurrently slides.scss has two copies in the repo:\n\nin the slides folder\nin the root of the repo\n\nWith this repetition the slides render using the correct styling (titles are red) whether you click on Render when editing deck1.qmd or click on Render Website in the Build tab.\nI’d like to have only one copy of slides.scss in the repo and have both render options work."
+  },
+  {
+    "objectID": "slides/deck1.html#slide-1",
+    "href": "slides/deck1.html#slide-1",
+    "title": "Deck 1 title - should be red",
+    "section": "Slide 1",
+    "text": "Slide 1\nTitle should be red"
+  }
+]

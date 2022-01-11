@@ -1,0 +1,7 @@
+---
+title: "Slides"
+---
+
+Slides:
+
+1. [Deck 1](/slides/deck1.html)

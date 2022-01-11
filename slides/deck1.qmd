@@ -1,0 +1,14 @@
+---
+title: "Deck 1 title - should be red"
+logo: "images/quarto.png"
+format: 
+  revealjs:
+    theme: slides.scss
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Slide 1
+
+Title should be red
